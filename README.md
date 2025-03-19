@@ -13,6 +13,13 @@ The latest commit on the main branch was made by [Ro706](https://github.com/Ro70
 ## Installation
 To install and set up the project, follow these steps:
 
+# linux User: 
+1. Clone the repository:
+    ```bash
+    apt install git
+    git clone https://github.com/Ro706/mern.git
+    cd mern
+    ```
 1. Clone the repository:
     ```bash
     git clone https://github.com/Ro706/mern.git
